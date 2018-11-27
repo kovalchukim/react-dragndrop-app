@@ -3,9 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "final-form": "^4.11.0",
+    "final-form-arrays": "^1.1.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-dropzone": "^7.0.1",
+    "react-final-form": "^4.0.2",
+    "react-final-form-arrays": "^2.0.1",
+    "react-scripts": "2.1.1",
+    "styled-components": "^4.1.1",
+    "superagent": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
